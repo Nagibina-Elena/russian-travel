@@ -13,7 +13,7 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma] (https://nagibina-elena.github.io/russian-travel/index.html)
+* [Ссылка на макет в Figma](https://nagibina-elena.github.io/russian-travel/index.html)
 
 **Картинки**
 
